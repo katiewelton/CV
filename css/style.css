@@ -241,7 +241,7 @@ footer a:hover {
 		height: 100px;
 	}
 	nav li{
-		height: px;
+		height: 32px;
 	}
 	.icon{
 		margin: 6px 6px 0 6px;
@@ -253,7 +253,7 @@ footer a:hover {
 		border-radius: 40px;
 	}
 	.spacer{
-		height: 135px;
+		height: 125px;
 	}
 	.photo{
 		width: 86px;
