@@ -270,7 +270,8 @@ footer a:hover {
 		text-align: right;
 		display: block;
 		right: 12px;
-}
+		font-size: 0.5em;
+	}
 	.rightcolumn{
 		height: 80px;
 		margin-bottom: 8px;
