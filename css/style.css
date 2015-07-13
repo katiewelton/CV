@@ -237,6 +237,18 @@ footer a:hover {
 	h3{
 		font-size: 0.7em;
 	}
+	.icon{
+		margin: 6px;
+	}
+	.cv{
+		width: 95%;
+		border: solid 8px #9fd356;
+		-webkit-border-radius: 40px;
+		border-radius: 40px;
+	}
+	.spacer{
+		height: 135px;
+	}
 	.photo{
 		width: 80px;
 		height: auto;
@@ -247,7 +259,9 @@ footer a:hover {
 		height: auto;
 	}
 	.name, .title{
+		width: 80%;
 		float: right;
+		text-align: right;
 	}
 }
 
