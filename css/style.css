@@ -237,8 +237,14 @@ footer a:hover {
 	h3{
 		font-size: 0.7em;
 	}
+	header{
+		height: 100px;
+	}
+	nav li{
+		height: px;
+	}
 	.icon{
-		margin: 6px;
+		margin: 6px 6px 0 6px;
 	}
 	.cv{
 		width: 95%;
@@ -262,6 +268,12 @@ footer a:hover {
 		width: 80%;
 		float: right;
 		text-align: right;
+		display: block;
+		right: 12px;
+}
+	.rightcolumn{
+		height: 80px;
+		margin-bottom: 8px;
 	}
 }
 
