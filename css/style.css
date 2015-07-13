@@ -246,6 +246,9 @@ footer a:hover {
 		width: 35px;
 		height: auto;
 	}
+	.name, .title{
+		float: right;
+	}
 }
 
 
