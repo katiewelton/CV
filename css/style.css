@@ -231,10 +231,10 @@ footer a:hover {
 
 @media screen and (max-width: 630px) {
 	p{
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 	h3{
-		font-size: 1em;
+		font-size: 1.1em;
 	}
 	.leftColumn{
 		margin-top:21px;
@@ -242,10 +242,13 @@ footer a:hover {
 }
 @media screen and (max-width: 547px) {
 	p{
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 	h3{
-		font-size: 1em;
+		font-size: 1.1em;
+	}
+	.leftColumn{
+		margin-top: 18px;
 	}
 	header{
 		height: 100px;
@@ -283,10 +286,11 @@ footer a:hover {
 		margin: 6px;
 	}
 	.name{
-		font-size: 2.8em;
+		font-size: 2.2em;
+		top: 3px;
 	}
 	.title{
-		font-size: 2em;
+		font-size: 1.8em;
 		top: 40px;
 	}
 	.rightcolumn{
