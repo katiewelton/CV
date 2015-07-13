@@ -256,7 +256,7 @@ footer a:hover {
 		height: 135px;
 	}
 	.photo{
-		width: 80px;
+		width: 86px;
 		height: auto;
 		margin: 0 12px 12px 0;
 	}
@@ -270,6 +270,7 @@ footer a:hover {
 		text-align: right;
 		display: block;
 		right: 12px;
+		margin: 6px;
 	}
 	.name{
 		font-size: 2.5em;
